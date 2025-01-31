@@ -10,7 +10,10 @@
 สิ่งที่ทำ
  1. ออกแบบและจำลองหน้าแอพด้วย Figma
 
+Figma
+https://www.figma.com/design/Zk4s5vLoPuuX55EPuML04X/FleshFlow?node-id=0-1&t=u4MI1II7ynlQMpS8-1
 
+จำลอง
 https://www.figma.com/proto/Zk4s5vLoPuuX55EPuML04X/FleshFlow?node-id=140-577&starting-point-node-id=24%3A143&t=fjS95LjIkaGki9Yw-1
 
 
