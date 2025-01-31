@@ -12,3 +12,6 @@
 
 
 https://www.figma.com/proto/Zk4s5vLoPuuX55EPuML04X/FleshFlow?node-id=140-577&starting-point-node-id=24%3A143&t=fjS95LjIkaGki9Yw-1
+
+![image](https://github.com/user-attachments/assets/da7359e0-7776-40a9-9e27-455e8aa308b7)
+
